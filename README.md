@@ -1,4 +1,4 @@
-# Azui-Project
+# Azubi-Project
 App created usig HTML, CSS and JAVASCRIPT
 ## Table of contents
 - [Overview](#overview)
